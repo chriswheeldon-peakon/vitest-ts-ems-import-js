@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "NodeNext",
+    "module": "NodeNext",
+    "outDir": "dist",
+    "allowJs": true
+  },
+  "include": ["foo.js", "bar.ts", "index.ts"]
+}

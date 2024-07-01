@@ -1,0 +1,17 @@
+{
+  "name": "vitest-ts",
+  "version": "1.0.0",
+  "main": "lib.js",
+  "scripts": {
+    "test": "vitest",
+    "start": "tsc && node dist/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^5.5.2",
+    "vitest": "^2.0.0-beta.12"
+  }
+}
